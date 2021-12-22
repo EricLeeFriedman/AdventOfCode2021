@@ -20,4 +20,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Day2\Day2.csproj" />
+  </ItemGroup>
+
 </Project>
